@@ -43,3 +43,5 @@ Each module can have it's own Environment, i.e. here we've got ApiEnvironment, G
 
 Core module should be responsible for starting basic services while gui module should be responsible just for starting javafx.
 Api module should limit itself only to opening REST API port.
+
+![Module dependency diagram](dependencies.png)
